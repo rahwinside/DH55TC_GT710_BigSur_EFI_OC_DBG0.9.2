@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Add</key>
+	<dict>
+		<key>36C28AB5-6566-4C50-9EBD-CBB920F83843</key>
+		<dict/>
+		<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
+		<dict>
+			<key>ForceDisplayRotationInEFI</key>
+			<data>
+			AAAAAA==
+			</data>
+			<key>LocationServicesEnabled</key>
+			<data>
+			AQ==
+			</data>
+			<key>SystemAudioVolume</key>
+			<data>
+			Rg==
+			</data>
+			<key>_kdp_ipstr</key>
+			<data>
+			MTcyLjE5Ljk3LjI0Mw==
+			</data>
+			<key>boot-args</key>
+			<string>keepsyms=1 debug=0x100 npci=0x2000 swd_panic=1</string>
+			<key>csr-active-config</key>
+			<data>
+			AAAAAA==
+			</data>
+			<key>fmm-computer-name</key>
+			<data>
+			UmFodWzigJlzIE1hYyBQcm8=
+			</data>
+			<key>preferred-count</key>
+			<integer>0</integer>
+			<key>prev-lang:kbd</key>
+			<data>
+			ZW4tVVM6MAA=
+			</data>
+			<key>run-efi-updater</key>
+			<data>
+			Tm8A
+			</data>
+		</dict>
+		<key>8BE4DF61-93CA-11D2-AA0D-00E098032B8C</key>
+		<dict/>
+	</dict>
+	<key>Version</key>
+	<integer>1</integer>
+</dict>
+</plist>
